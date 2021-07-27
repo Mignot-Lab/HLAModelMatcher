@@ -1,0 +1,1 @@
+find . -type f -name "*.RData" > scripts/modelsLocalPath.txt
