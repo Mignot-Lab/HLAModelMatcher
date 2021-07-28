@@ -1,8 +1,8 @@
 from collections import defaultdict
 import csv
 import glob
-import json
 import os
+import json
 
 
 def jsonDump(dict, jsonFile):
