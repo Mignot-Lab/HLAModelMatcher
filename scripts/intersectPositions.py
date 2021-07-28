@@ -1,7 +1,7 @@
 import argparse
 import csv
 import json
-import os
+import os, re
 from collections import Counter
 
 hg19Coords=(29719561,32883508)
